@@ -1,9 +1,5 @@
-//
-// Created by makay on 10/2/2022.
-//
-
-#ifndef M1OEP_MALBER_MUSICLABEL_H
-#define M1OEP_MALBER_MUSICLABEL_H
+#ifndef MUSICLABEL_H
+#define MUSICLABEL_H
 
 #include <iostream>
 #include <vector>
@@ -46,4 +42,4 @@ public:
     friend ostream& operator << (ostream& outs, const MusicLabel& label);
 
 };
-#endif //M1OEP_MALBER_MUSICLABEL_H
+#endif //MUSICLABEL_H

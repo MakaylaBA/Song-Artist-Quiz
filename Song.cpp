@@ -1,7 +1,3 @@
-//
-// Created by makay on 9/14/2022.
-//
-
 #include "Song.h"
 using namespace std;
 

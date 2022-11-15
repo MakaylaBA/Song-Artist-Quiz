@@ -1,6 +1,3 @@
-//
-// Created by makay on 9/29/2022.
-//
 #include "Question.h"
 #include "Quiz.h"
 #include "Song.h"

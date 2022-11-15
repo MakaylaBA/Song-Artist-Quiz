@@ -1,9 +1,5 @@
-//
-// Created by makay on 9/14/2022.
-//
-
-#ifndef M1OEP_MALBER_SONG_H
-#define M1OEP_MALBER_SONG_H
+#ifndef SONG_H
+#define SONG_H
 
 #include <iostream>
 #include <iomanip>
@@ -45,4 +41,4 @@ public:
     friend ostream& operator << (ostream& outs, const Song& song);
 };
 
-#endif //M1OEP_MALBER_SONG_H
+#endif //SONG_H

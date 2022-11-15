@@ -1,9 +1,5 @@
-//
-// Created by makay on 10/2/2022.
-//
-
-#ifndef M1OEP_MALBER_ARTIST_H
-#define M1OEP_MALBER_ARTIST_H
+#ifndef ARTIST_H
+#define ARTIST_H
 #include <iostream>
 using std::ostream, std::string;
 
@@ -24,7 +20,7 @@ public:
     /*setters*/
     void setName(string name);
 
-    /* sets the age to
+    /* sets the age to given value
      * if less than 0 sets to 0*/
     void setAge(int age);
 
@@ -33,4 +29,4 @@ public:
     friend ostream& operator << (ostream& outs, const Artist& artist);
 
 };
-#endif //M1OEP_MALBER_ARTIST_H
+#endif //ARTIST_H

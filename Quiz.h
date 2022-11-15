@@ -1,5 +1,5 @@
-#ifndef M2GP_CUSTOM_QUIZ_QUIZ_H
-#define M2GP_CUSTOM_QUIZ_QUIZ_H
+#ifndef QUIZ_H
+#define QUIZ_H
 
 #include "Question.h"
 using std::istream;
@@ -39,4 +39,4 @@ public:
 };
 
 
-#endif //M2GP_CUSTOM_QUIZ_QUIZ_H
+#endif //QUIZ_H

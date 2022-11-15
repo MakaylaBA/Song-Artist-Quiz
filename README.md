@@ -1,4 +1,4 @@
-# M2OEP-malber
+#Song and Artist Quizes
 Makayla Alber
 
 The concepts from module 2 used in this project are 

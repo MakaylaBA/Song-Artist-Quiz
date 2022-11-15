@@ -1,5 +1,5 @@
-#ifndef M2GP_CUSTOM_QUIZ_QUESTION_H
-#define M2GP_CUSTOM_QUIZ_QUESTION_H
+#ifndef QUESTION_H
+#define QUESTION_H
 
 #include <string>
 #include <vector>
@@ -53,4 +53,4 @@ public:
 };
 
 
-#endif //M2GP_CUSTOM_QUIZ_QUESTION_H
+#endif //QUESTION_H
