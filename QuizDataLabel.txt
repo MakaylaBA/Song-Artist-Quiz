@@ -1,0 +1,67 @@
+Which Artists are a Part of Republic Records!
+5
+Who is in the Label?
+2
+5
+Kanye
+0
+Conan Gray
+1
+Adele
+0
+Carrie Underwood
+0
+Selena Gomez
+0
+Who is in the Label"?
+2
+5
+Joshua Basset
+0
+SZA
+0
+Lil Tecca
+1
+Snoop Dog
+0
+Mary J Blige
+0
+Who is in the Label"?
+2
+5
+Ariana Grande
+1
+Demi Lovato
+0
+Celine Dion
+0
+Katy Perry
+0
+Justin Beiber
+0
+Who is in the Label"?
+2
+5
+Eminem
+0
+Lady Gaga
+0
+Offset
+0
+Lizzo
+0
+Drake
+1
+Who is in the Label"?
+2
+5
+Quavo
+0
+Beyonce
+0
+Bruno Mars
+0
+Anthony Ramos
+1
+Giveon
+0

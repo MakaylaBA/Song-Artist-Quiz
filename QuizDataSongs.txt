@@ -1,0 +1,67 @@
+Guess the Artist!
+5
+Who sings "Positions"?
+2
+5
+Kanye
+0
+Ariana Grande
+1
+Adele
+0
+Carrie Underwood
+0
+Selena Gomez
+0
+Who sings "Yours"?
+2
+5
+Joshua Basset
+0
+SZA
+0
+Conan Gray
+1
+Snoop Dog
+0
+Mary J Blige
+0
+Who sings "Fallin"?
+2
+5
+Lil Tecca
+1
+Demi Lovato
+0
+Celine Dion
+0
+Katy Perry
+0
+Justin Beiber
+0
+Who sings "Love and Lies"?
+2
+5
+Eminem
+0
+Lady Gaga
+0
+Offset
+0
+Lizzo
+0
+Anthony Ramos
+1
+Who sings "Certified Lover Boy"?
+2
+5
+Quavo
+0
+Beyonce
+0
+Bruno Mars
+0
+Drake
+1
+Giveon
+0
